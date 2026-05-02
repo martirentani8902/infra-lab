@@ -1,0 +1,5 @@
+*.vhdx
+*.vhd
+*.vmdk
+*.iso
+.vagrant/
